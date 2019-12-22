@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://YEAJIGO.github.io/gallery/"  
-  - JOURNAL: "https://YEAJIGO.github.io/journal/"
+  #- JOURNAL: "https://YEAJIGO.github.io/journal/"
   - ABOUT: "https://YEAJIGO.github.io/about/"
 
 # All translation keys
